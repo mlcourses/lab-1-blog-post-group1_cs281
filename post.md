@@ -18,7 +18,11 @@ For the first part of the lab, we experimented with a breadboard to understand t
 
 testing adding video:
 
-![5987D3C8-C1E1-4B45-83A2-84601FCD1263_4_5005_c](https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/57bac432-b4a3-472b-a458-9020dd4556b5)
+
+
+https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/70750896-6a0b-4fd4-82d4-97ca9856c7a9
+
+
 
 ## Conclusion
 
