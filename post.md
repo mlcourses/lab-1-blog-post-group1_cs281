@@ -16,6 +16,10 @@ This week we'll explore digital circuits and the hardware we will be using in th
 For the first part of the lab, we experimented with a breadboard to understand their use. We began by exploring the breadboard and indentifying connections on the board specically GND and 5V and finding patterns. We saw how the wires that were connected to the top row contained +5 Volts while to lower row contained GND. Also when a +5 volt wire was connected to a group with a column of 5 below it would give voltage to the rest of the row. When a +5 wire was connected to the group with two columns, it would give voltage to the same row. When we used the logic indicators, we found this hypothesis to be correct. After this we began to build our own digital circuit. To get it to work, we first connect the LED to GND and put the other end to same row as a resistor. We then connect a resisor in the same row as a wire which is connected to +5 V. (PUT VIDEO). Next we started to work with Logic gates and IC's. The first IC we began using is 7404 Inverter to show the inversion between 1A and 1Y. Next we took a 7408 inverter to show that both switches must be on to show the AND operation working. Lastly we used the Arduino which is a embedded controller.
 ## Testing
 
+testing adding video:
+
+![5987D3C8-C1E1-4B45-83A2-84601FCD1263_4_5005_c](https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/57bac432-b4a3-472b-a458-9020dd4556b5)
+
 ## Conclusion
 
 
