@@ -18,7 +18,7 @@ After this we began to build our own digital circuit. To get it to work, we firs
 
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/70750896-6a0b-4fd4-82d4-97ca9856c7a9
 
-Next we started to work with Logic gates and IC's. The first IC we began using is 7404 Inverter to show the inversion between 1A and 1Y. Next we took a 7408 inverter to show that both switches must be on to show the AND operation working. Lastly we used the Arduino which is a embedded controller.
+Next we started to work with Logic gates and IC's. The first IC we began using is 7404 Inverter to show the inversion between 1A and 1Y. Next we took a 7408 inverter to show that both switches must be on to show the AND operation working.
 
 
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/04892b08-bc76-4536-af18-b9adff71059e
@@ -32,6 +32,13 @@ https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/04892
 
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/2bc64894-7ff1-47fc-81d4-38fd9c827e6c
 
+
+
+Lastly we used the Arduino which is a embedded controller. We learned that the Arduino can be used to specify a behavior in a circuit. By connecting it to our computer and using the code below, we learned that this code includes three varibles. P which is a digital pin, and A and B being the amount of time in milliseconds that the LED will be delayed.
+
+
+
+https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/4706ba2d-a453-49b4-a785-ef82f415003e
 
 
 
