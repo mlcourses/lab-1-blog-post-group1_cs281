@@ -11,6 +11,7 @@ This week we'll explore digital circuits and the hardware we will be using in th
 ## Project Steps
 For the first part of the lab, we experimented with a breadboard to understand their use. We began by exploring the breadboard and indentifying connections on the board specically GND and 5V and finding patterns. We saw how the wires that were connected to the top row contained +5 Volts while to lower row contained GND. Also when a +5 volt wire was connected to a group with a column of 5 below it would give voltage to the rest of the row. When a +5 wire was connected to the group with two columns, it would give voltage to the same row. When we used the logic indicators, we found this hypothesis to be correct. 
 
+https://github.com/mlcourses/lab-1-blog-post-group1_cs281/img_4217.jpeg
 
 After this we began to build our own digital circuit. To get it to work, we first connect the LED to GND and put the other end to same row as a resistor. We then connect a resisor in the same row as a wire which is connected to +5 V. (PUT VIDEO). 
 
