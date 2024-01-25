@@ -7,7 +7,7 @@ This week we'll explore digital circuits and the hardware we will be using in th
 1. PB-503
 2. Arduino Kit
 3. Basic LED Circuts
-4.Logic Gates Ex: 7404 Inverter, 7408 AND
+4. Logic Gates Ex: 7404 Inverter, 7408 AND
 5. Wires
 6. Resistors
 7. It is important to handle these devices carefully!
