@@ -72,6 +72,8 @@ void loop() {
 ```
 
 The function setup() initialized P as the output using pinmode() meaning that the wire connecting the arduino must be 13. A and B are used in the loop function which delays the LED light for 1000 milliseconds. The loop repeatedly turns on the LED for 1000 miliseconds using digitalWrite and then turns the LED off(low) for 1000 milliseonds for an infinite loop.
+
+
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/4706ba2d-a453-49b4-a785-ef82f415003e
 
 
