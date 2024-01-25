@@ -8,6 +8,8 @@ This week we'll explore digital circuits and the hardware we will be using in th
 2. Arduino Kit
 3. Basic LED Circuts
 4.Logic Gates Ex: 7404 Inverter, 7408 AND
+5. Wires
+6. Resistors
 ## Project Steps
 For the first part of the lab, we experimented with a breadboard to understand their use. We began by exploring the breadboard and indentifying connections on the board specically GND and 5V and finding patterns. We saw how the wires that were connected to the top row contained +5 Volts while to lower row contained GND. Also when a +5 volt wire was connected to a group with a column of 5 below it would give voltage to the rest of the row. When a +5 wire was connected to the group with two columns, it would give voltage to the same row. When we used the logic indicators, we found this hypothesis to be correct. 
 
