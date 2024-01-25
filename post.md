@@ -66,6 +66,8 @@ https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/4706b
 
 ## Conclusion
 
+Lab 1 gave us an introduction to hardware components and digital circuits. We started of by familiarizing ourself with the breadboard and discovering connections with GND and +5V/
+
 
 
 
