@@ -23,13 +23,13 @@ https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/707508
 
 Connecting the circut with the function generator can change alot about the LED light. For example, by changing the frequency using the left slider from 1.0 to .1 change how fast the light lights up. The amp contols how bright the light gets. Also changing the frequency from 1 to 10 to even 100 switches the amount of cycles per second.
 
-Next we started to work with Logic gates and IC's. The first IC we began using is 7404 Inverter to show the inversion between 1A and 1Y. 
+Next we started to work with Logic gates and IC's. The first IC we began using is 7404 Inverter with the function generator to show the inversion between 1A and 1Y. 
 
 
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/04892b08-bc76-4536-af18-b9adff71059e
 
 
-Next we took a 7408 inverter to show that both switches must be on to show the AND operation working.
+Next we took a 7408 inverter to show that both switches must be on to show the AND operation working. As described in the video, when both swithces are off or only one is on, the logic indicators shows low. When they are both 1 the logic indicator is high.
 
 
 
@@ -41,6 +41,7 @@ https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/2bc64
 
 Lastly we used the Arduino which is a embedded controller. We learned that the Arduino can be used to specify a behavior in a circuit. By connecting it to our computer and using the code below, we learned that this code includes three varibles. P which is a digital pin, and A and B being the amount of time in milliseconds that the LED will be delayed.
 
+```
 const int P = 13;
 const int A = 1000;
 const int B = 1000;
@@ -57,7 +58,7 @@ void loop() {
   digitalWrite(P, LOW);
   delay(B);
 }
-
+```
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/4706ba2d-a453-49b4-a785-ef82f415003e
 
 
