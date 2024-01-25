@@ -11,18 +11,28 @@ This week we'll explore digital circuits and the hardware we will be using in th
 5. Wires
 6. Resistors
 7. It is important to handle these devices carefully!
+
+## Lab Objectives
+1. Breadboard Proficiency
+2. Digital Circuit Construction
+3. Logic Gates and ICs
+4. Arduino Integration
 ## Project Steps
+
+## Breadboard Proficiency
 For the first part of the lab, we experimented with a breadboard to understand their use. We began by exploring the breadboard and indentifying connections on the board specically GND and 5V and finding patterns. We saw how the wires that were connected to the top row contained +5 Volts while to lower row contained GND. Also when a +5 volt wire was connected to a group with a column of 5 below it would give voltage to the rest of the row. When a +5V wire was connected to the group with two columns, it would give voltage to the same column. When we used the logic indicators, we found this hypothesis to be correct. 
 
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/49ac72b3-e3b8-4da4-8803-32981dcfd888
 
 The high indicates that the wire is connected to +5 Voltage while low is connected to ground. After this we began to build our own digital circuit. To get it to work, we first connect the LED short leg to GND and put the long leg to same row as a resistor. We then connect a resistor in the same row as a wire to give the LED power and use the resistor to limit excess current that can harm the LED.
 
-## Digital Circuits
+## Digital Circuit Construction
 
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/70750896-6a0b-4fd4-82d4-97ca9856c7a9
 
 Connecting the circut with the function generator can change alot about the LED light. For example, by changing the frequency using the left slider from 1.0 to .1 change how fast the light lights up. The amp contols how bright the light gets. Also changing the frequency from 1 to 10 to even 100 switches the amount of cycles per second.
+
+## Logic Gates and ICs
 
 Next we started to work with Logic gates and IC's. The first IC we began using is 7404 Inverter with the function generator to show the inversion between 1A and 1Y. 
 
@@ -38,7 +48,7 @@ Next we took a 7408 AND Gate to show that both switches must be on to show the A
 
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/2bc64894-7ff1-47fc-81d4-38fd9c827e6c
 
-
+## Arduino Integration
 
 Lastly we used the Arduino which is a embedded controller. We learned that the Arduino can be used to specify a behavior in a circuit. By connecting it to our computer and using the code below, we learned that this code includes three varibles. P which is a digital pin, and A and B being the amount of time in milliseconds that the LED will be delayed.
 
