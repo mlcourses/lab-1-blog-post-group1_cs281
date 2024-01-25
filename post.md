@@ -23,13 +23,13 @@ https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/707508
 
 Connecting the circut with the function generator can change alot about the LED light. For example, by changing the frequency using the left slider from 1.0 to .1 change how fast the light lights up. The amp contols how bright the light gets. Also changing the frequency from 1 to 10 to even 100 switches the amount of cycles per second.
 
-Next we started to work with Logic gates and IC's. The first IC we began using is 7404 Inverter to show the inversion between 1A and 1Y. Next we took a 7408 inverter to show that both switches must be on to show the AND operation working.
+Next we started to work with Logic gates and IC's. The first IC we began using is 7404 Inverter to show the inversion between 1A and 1Y. 
 
 
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/04892b08-bc76-4536-af18-b9adff71059e
 
 
-
+Next we took a 7408 inverter to show that both switches must be on to show the AND operation working.
 
 
 
