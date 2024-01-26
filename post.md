@@ -24,7 +24,8 @@ For the first part of the lab, we experimented with a breadboard to understand t
 
 
 
-https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/49ac72b3-e3b8-4da4-8803-32981dcfd888
+![IMG_4217](https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/f4fc5924-d990-4621-a040-b4bb2190bfbd)
+
 
 
 
