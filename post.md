@@ -60,7 +60,7 @@ https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/2bc64
 
 ## Arduino Integration
 
-Lastly we used the Arduino which is a embedded controller. We learned that the Arduino can be used to specify a behavior in a circuit. By connecting it to our computer and using the code below, we learned that this code includes three varibles. P which is a digital pin, and A and B being the amount of time in milliseconds that the LED will be delayed.
+Lastly we used the Arduino which is an embedded controller. We learned that the Arduino can be used to specify a behavior in a circuit. By connecting it to our computer and using the code below, we learned that this code includes three varibles: P which is a digital pin, and A and B being the amount of time in milliseconds of delay before the pin writes another output.
 
 ```
 const int P = 13;
@@ -81,8 +81,7 @@ void loop() {
 }
 ```
 
-The function setup() initialized P as the output using pinmode() meaning that the wire connecting the arduino must be 13. A and B are used in the loop function which delays the LED light for 1000 milliseconds. The loop repeatedly turns on the LED for 1000 miliseconds using digitalWrite and then turns the LED off(low) for 1000 milliseonds for an infinite loop.
-
+The setup() function denotes pin P (pin 13 in our case) to be the output. In the code, the pin will write a high voltage, pause for 1000ms, write a low voltage, pause for another 1000ms, and then repeats.
 
 https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/112486168/4706ba2d-a453-49b4-a785-ef82f415003e
 
