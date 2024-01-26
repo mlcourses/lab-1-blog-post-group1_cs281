@@ -34,7 +34,11 @@ The high indicates that the wire is connected to +5 Voltage while low is connect
 
 ## Digital Circuit Construction
 
-https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/70750896-6a0b-4fd4-82d4-97ca9856c7a9
+
+
+https://github.com/mlcourses/lab-1-blog-post-group1_cs281/assets/97915038/cc2c551f-6f29-4986-ac39-523363f4f53a
+
+
 
 Connecting the circut with the function generator can change alot about the LED light. For example, by changing the frequency using the left slider from 1.0 to .1 change how fast the light lights up. The amp contols how bright the light gets. Also changing the frequency from 1 to 10 to even 100 switches the amount of cycles per second.
 
