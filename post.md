@@ -20,7 +20,7 @@ This week we'll explore digital circuits and the hardware we will be using in th
 ## Project Steps
 
 ## Breadboard Proficiency
-For the first part of the lab, we experimented with a breadboard to understand their use. We began by exploring the breadboard and indentifying connections on the board specically GND and 5V and finding patterns. We saw how the wires that were connected to the top row contained +5 Volts while to lower row contained GND. Also when a +5 volt wire was connected to a group with a column of 5 below it would give voltage to the rest of the row. When a +5V wire was connected to the group with two columns, it would give voltage to the same column. When we used the logic indicators, we found this hypothesis to be correct. 
+For the first part of the lab, we experimented with a breadboard to understand their use. We began by exploring the breadboard and indentifying connections on the board, specically how the holes are wired, using the GND and +5V terminals. We saw how the holes in the top 4 rows, the top 2 rows are wired to each other, and the bottom 2 rows are wired to each other. Thus, the top 2 rows were wired to +5V, while the bottom 2 were wired to GND. Also, when a +5 volt wire was connected to a row of 5 holes, it would give voltage to the rest of the row. When a +5V wire was connected to the column with only 2 holes per row, it would give voltage to the same column. When we used the logic indicators, we found this hypothesis to be correct. 
 
 
 
